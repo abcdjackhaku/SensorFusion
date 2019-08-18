@@ -1,0 +1,3 @@
+/home/hakusho/testrepo/udacity_projects/lidar/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/rebuild_cache.dir
+/home/hakusho/testrepo/udacity_projects/lidar/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/environment.dir
+/home/hakusho/testrepo/udacity_projects/lidar/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/edit_cache.dir

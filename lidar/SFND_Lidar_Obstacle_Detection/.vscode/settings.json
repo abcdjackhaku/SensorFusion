@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "core": "cpp",
+        "numericaldiff": "cpp"
+    }
+}
